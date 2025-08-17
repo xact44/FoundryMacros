@@ -10,7 +10,7 @@ Some macros may rely on certain modules being present.
 
 ### 1. Install
 1. Open the file in GitHub to check out the code.
-2. Go to the **Macro Directory** (`Hotbar > Create Macro`).
+2. Go to the **Macro Directory** (`Hotbar > Create Macro`) in Foundry VTT.
 3. Copy the contents of any `.js` file from this repo.
 4. Paste into the **Foundry Macro Editor**.
 
